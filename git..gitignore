@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+git add app.py requirements.txt insurance_model.pkl columns.pkl .gitignore
+git commit -m "Initial insurance prediction app"
